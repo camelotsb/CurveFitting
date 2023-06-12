@@ -1,0 +1,11 @@
+Polynomial fitting -  1) with matrix representation (inverse) 
+
+--> interpolation , Extrapolation
+
+2) polynomial regression
+
+
+
+least squares algorithm
+
+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
